@@ -26,6 +26,26 @@
 
 ---
 
+<!-- Live Badges Section -->
+<p align="center">
+  <!-- Profile badge -->
+  <img src="https://img.shields.io/badge/Profile-Piyushiitk24-blue?style=flat-square&logo=github">
+  <!-- Followers badge -->
+  <a href="https://github.com/Piyushiitk24?tab=followers">
+    <img src="https://img.shields.io/github/followers/Piyushiitk24?label=Follow&style=flat-square" alt="GitHub Followers"/>
+  </a>
+  <!-- Stars badge for all repositories -->
+  <a href="https://github.com/Piyushiitk24?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Piyushiitk24?label=All%20Repo%20Stars&style=flat-square" alt="GitHub Stars"/>
+  </a>
+  <!-- Sponsor badge -->
+  <a href="https://github.com/sponsors/Piyushiitk24">
+    <img src="https://img.shields.io/badge/Sponsor%20me-GitHub-orange?style=flat-square&logo=githubsponsors" alt="Sponsor Me"/>
+  </a>
+</p>
+
+---
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://twitter.com/piyushiitk24" target="_blank">
