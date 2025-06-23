@@ -48,6 +48,10 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32" alt="Buy Me a Coffee"/>
   </a>
   &nbsp;
+  <a href="https://ko-fi.com/piyusht" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" height="32" alt="Ko-fi"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/sponsors/Piyushiitk24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="32" alt="GitHub Sponsor"/>
   </a>
@@ -94,15 +98,19 @@
 
 ---
 
-<!-- GitHub Sponsor & BuyMeACoffee -->
-<h2 align="center">💖 Support My Work</h2>
+<!-- Sponsorship Section -->
+<h2 align="center">💖 Support My Work | Sponsor Me</h2>
 <p align="center">
   <a href="https://github.com/sponsors/Piyushiitk24" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="36"/>
+    <img src="https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="36" alt="GitHub Sponsor"/>
   </a>
   &nbsp;
   <a href="https://coff.ee/piyushiitk24" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="36"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="36" alt="Buy Me a Coffee"/>
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/piyusht" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" height="36" alt="Ko-fi"/>
   </a>
 </p>
 
