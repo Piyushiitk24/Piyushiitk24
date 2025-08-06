@@ -15,10 +15,10 @@
 
 ## About Me  
 <p align="justify">
-I’m <strong>Piyush</strong>, a master’s student in engineering with a decade of real-world experience in control and automation. By day, I architect adaptive learning systems; by night, I tinker with vintage hardware, dive into AI experiments and chase the perfect espresso shot.  
+I’m <strong>Piyush</strong>, a master’s student in engineering with a decade of real-world experience in executive and management. By day, I architect adaptive learning systems; by night, I tinker with vintage hardware, dive into AI experiments and chase the perfect espresso shot.  
 </p>
 
-- 🎓 **MTech Control & Automation** at a top institute (sponsored, so I keep earning while I learn)  
+- 🎓 **MTech Control & Automation**
 - 🤖 **AI & ML** enthusiast: neural nets, reinforcement loops & explainable models  
 - 🕹️ **Retro geek**: 80s synthwave, arcade restoration, pixel art coding  
 - 🌱 **Tech stack**: Python · JavaScript · TypeScript · React · Docker · Kubernetes  
