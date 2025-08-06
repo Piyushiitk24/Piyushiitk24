@@ -1,3 +1,62 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,22,24&height=190&section=header&text=Piyush%20%7C%20AI%20Builder&fontSize=50&animation=twinkling&fontAlignY=35&desc=Masters%20in%20Engineering%20%7C%20Open%20Source%20Fan&descAlignY=55&descAlign=65" alt="Banner" />
+</p>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=Piyushiitk24&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
+
+<!-- About Section (YAML Style) -->
+<h3 align="center">About Me</h3>
+<!-- About Section: YAML format for a clean, code-like retro terminal vibe. Added unique "Retro-Futurism" twist. -->
+<p align="center">
+```yaml
+Name: Piyush
+Education: Masters in Engineering 🎓
+Passion: AI & ML Enthusiast 🤖 | Beginner Developer
+Style: Jack of All Trades, Master of Few 🛠️
+Exploring: Python, JavaScript, TypeScript, React 🌱
+Vibe: Retro-Futurism – Blending Vintage Tech with Cutting-Edge AI
+Collab: Open to Partnerships & Learning Opportunities 🤝
+Fuel: Coffee-Fueled Coding Sessions ☕
+
+
+
+
+  <img src="https://img.shields.io/badge/Profile-Piyushiitk24-800080?style=flat-square&#x26;logo=github" alt="Profile">
+  
+  <img src="https://img.shields.io/github/followers/Piyushiitk24?label=Followers&#x26;style=flat-square&#x26;color=FF69B4" alt="Followers">
+  
+  
+  <img src="https://img.shields.io/github/stars/Piyushiitk24?label=Total%20Stars&#x26;style=flat-square&#x26;color=00FFFF" alt="Stars">
+  
+  
+  <img src="https://img.shields.io/badge/Sponsor-ff69b4?style=flat-square&#x26;logo=githubsponsors" alt="Sponsor">
+
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter">
+  
+    
+  
+  <img src="https://skillicons.dev/icons?i=youtube" height="50" alt="YouTube">
+  
+    
+  
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail">
+  
+    
+  
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn">
+  
+    
+  
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&#x26;logo=buy-me-a-coffee&#x26;logoColor=black" height="40" alt="Buy Me a Coffee">
+  
+    
+  
+  <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&#x26;logo=ko-fi&#x26;logoColor=white" height="40" alt="Ko-fi">
+  
+    
+  
+  <img src="https://img.shields.io/badge/GitHub%20Sponsor-ff69b4?style=for-the-badge&#x26;logo=githubsponsors&#x26;logoColor=white" height="40" alt="GitHub Sponsor">
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile-Piyushiitk24-800080?style=flat-square&logo=github" alt="Profile">
@@ -57,16 +116,27 @@
   <a href="https://ko-fi.com/piyusht" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" height="32" alt="Ko-fi" /></a>
 </p>
 
-<!-- Featured Projects -->
+<!-- Featured Projects (5 latest, professional ones) -->
 <h3 align="center">Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/piyushiitk24/Gamification_Quiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=Gamification_Quiz&theme=radical&border_color=FF69B4&border_radius=11" height="110" /></a>
-  <a href="https://github.com/piyushiitk24/QuizOnline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=QuizOnline&theme=radical&border_color=FF69B4&border_radius=11" height="110" /></a>
-  <a href="https://github.com/piyushiitk24/duolingo-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=duolingo-clone&theme=radical&border_color=FF69B4&border_radius=11" height="110" /></a>
-  <a href="https://github.com/piyushiitk24/LessonPlanApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=LessonPlanApp&theme=radical&border_color=FF69B4&border_radius=11" height="110" /></a>
+  <a href="https://github.com/Piyushiitk24/virtuallab-control-systems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=virtuallab-control-systems&theme=radical&border_color=FF69B4&border_radius=11" height="120" />
+  </a>
+  <a href="https://github.com/Piyushiitk24/Quizock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=Quizock&theme=radical&border_color=FF69B4&border_radius=11" height="120" />
+  </a>
+  <a href="https://github.com/Piyushiitk24/Offtoken">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=Offtoken&theme=radical&border_color=FF69B4&border_radius=11" height="120" />
+  </a>
+  <a href="https://github.com/Piyushiitk24/SANKALP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=SANKALP&theme=radical&border_color=FF69B4&border_radius=11" height="120" />
+  </a>
+  <a href="https://github.com/Piyushiitk24/EduLadder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=EduLadder&theme=radical&border_color=FF69B4&border_radius=11" height="120" />
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/piyushiitk24?tab=repositories"><b>View all projects</b></a>
+  <a href="https://github.com/Piyushiitk24?tab=repositories"><b>View all projects</b></a>
 </p>
 
 <!-- Repo Table -->
@@ -74,19 +144,19 @@
 <p align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/piyushiitk24/Gamification_Quiz">Gamification_Quiz</a></td>
-      <td><a href="https://github.com/piyushiitk24/QuizOnline">QuizOnline</a></td>
-      <td><a href="https://github.com/piyushiitk24/duolingo-clone">duolingo-clone</a></td>
+      <td><a href="https://github.com/Piyushiitk24/virtuallab-control-systems">virtuallab-control-systems</a></td>
+      <td><a href="https://github.com/Piyushiitk24/Quizock">Quizock</a></td>
+      <td><a href="https://github.com/Piyushiitk24/Offtoken">Offtoken</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/piyushiitk24/LessonPlanApp">LessonPlanApp</a></td>
-      <td><a href="https://github.com/piyushiitk24/Regression_Analysis">Regression_Analysis</a></td>
-      <td><a href="https://github.com/piyushiitk24/EduLadder">EduLadder</a></td>
+      <td><a href="https://github.com/Piyushiitk24/SANKALP">SANKALP</a></td>
+      <td><a href="https://github.com/Piyushiitk24/EduLadder">EduLadder</a></td>
+      <td><a href="https://github.com/Piyushiitk24/LessonPlanApp">LessonPlanApp</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/piyushiitk24/UNO">UNO</a></td>
-      <td><a href="https://github.com/piyushiitk24/CS661_Course_Project">CS661_Course_Project</a></td>
-      <td><a href="https://github.com/piyushiitk24/Project_D3">Project_D3</a></td>
+      <td><a href="https://github.com/Piyushiitk24/Regression_Analysis">Regression_Analysis</a></td>
+      <td><a href="https://github.com/Piyushiitk24/UNO">UNO</a></td>
+      <td><a href="https://github.com/Piyushiitk24/CS661_Course_Project">CS661_Course_Project</a></td>
     </tr>
   </table>
 </p>
