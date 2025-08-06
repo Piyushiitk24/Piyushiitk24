@@ -1,129 +1,321 @@
-<!-- Animated, Retro-Themed Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff0fc,100:fd5fff&height=220&section=header&text=%F0%9F%94%AA%20Piyush%20-%20Synthwave%20Tech%20Zone%20%E2%9A%99%EF%B8%8F&fontSize=42&fontAlign=50&fontColor=fff&desc=Welcome%20to%20my%20Neon%20Playground!&descSize=24&descAlign=62&fontAlignY=32"/>
-</p>
-
-<!-- Vibe: Neon, Retro, Synthwave -->
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="80" alt="Retro Grid"/>
-</p>
+<!-- Retro Vaporwave Banner: Wavy gradient in vaporwave colors for a sexy, nostalgic hook -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=28&duration=2500&pause=750&color=00FFD6&vCenter=true&center=true&width=750&lines=Hey+traveler%2C+welcome+to+the+retro+zone!;I%E2%80%99m+Piyush%2C+MEng+Student+%7C+AI+Tinkerer;Coding+by+day+%E2%98%94%EF%B8%8F+Dreaming+8-bit+by+night;Synthwave+fan%2C+Pixel+artist%2C+Builder+of+things;Let%E2%80%99s+make+the+future+funky!+%F0%9F%8C%8B"
-  alt="Typing SVG"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,22,24&height=200&section=header&text=Piyush's%20Retro-Futurism%20Lab&fontSize=60&animation=twinkling&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Masters%20in%20Engineering&descAlignY=55&descAlign=62" alt="Retro Banner" />
+
 </p>
 
----
+<!-- Profile Views: Retro hit-counter style, cyan color for vaporwave feel -->
 
-<!-- Glitch Animated Profile Pic -->
+<img align="right" src="https://komarev.com/ghpvc/?username=Piyushiitk24&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
+
+<!-- Welcome Section: Subtle glitch GIF for sexy retro allure, professional intro -->
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/99126724?s=400&v=4" width="120" style="border-radius:50%; filter: drop-shadow(0 0 18px #0ff0fc);" alt="Piyush Avatar"/>
-  <img src="https://media.giphy.com/media/l41K3o5Tzvm53mlzG/giphy.gif" width="54" alt="Neon Sparkle"/>
-</p>
 
-<!-- About Me in neon callout style -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Masters-Engineering-8100ff?style=for-the-badge&labelColor=fd5fff&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-00FFD6?style=for-the-badge&logo=githubcopilot&logoColor=8100ff"/>
-  <img src="https://img.shields.io/badge/ReactJS-Python-JS-FB2576?style=for-the-badge&logo=react&logoColor=00FFD6"/>
-</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9nY2g1a2xhdjg0N2V1b3Z0N2N2a2t1Z25wM2J6eG5vMzF5b2Z3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjSL5LGmpO/giphy.gif" width="80" alt="Glitch GIF" /> 
 
-<p align="center" style="font-size:17px;">
-  <b>👋 Yo, I’m <span style="color:#01fff7;">Piyush</span>! Jack of all trades, master of a few.</b><br>
-  <b>🚀 Synthwave, neon, and 8-bit dreams fuel my projects.</b><br>
-  🪐 Exploring <span style="color:#fd5fff">AI</span>, <span style="color:#0ff0fc">ML</span>, <span style="color:#ffc800">React</span>, and the future.<br>
-  💡 Passionate about <b>creative code, curious science, and building a rad open-source world.</b><br>
-  🎨 Loves: coffee, retro games, pixel art, midnight coding & synthpop beats.<br>
-  🤝 Always up for weird collabs & wild ideas.
+  <br>
+
+  <b style="color:#FF69B4">Enter the Vaporwave Void: Where AI Meets 80s Nostalgia</b>
+
 </p>
 
 ---
 
-<!-- Animated Neon Badges and Links -->
+<!-- About Section: YAML format for a clean, code-like retro terminal vibe. Added unique "Retro-Futurism" twist. -->
+
 <p align="center">
+
+```yaml
+
+Name: Piyush
+
+Education: Masters in Engineering 🎓
+
+Passion: AI & ML Enthusiast 🤖 | Beginner Developer
+
+Style: Jack of All Trades, Master of Few 🛠️
+
+Exploring: Python, JavaScript, TypeScript, React 🌱
+
+Vibe: Retro-Futurism – Blending Vintage Tech with Cutting-Edge AI
+
+Collab: Open to Partnerships & Learning Opportunities 🤝
+
+Fuel: Coffee-Fueled Coding Sessions ☕
+
+```
+
+</p>
+
+---
+
+<!-- Badges: Custom vaporwave colors (pink/cyan/purple), flat-square for sleek look -->
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Profile-Piyushiitk24-800080?style=flat-square&logo=github" alt="Profile">
+
+  <a href="https://github.com/Piyushiitk24?tab=followers">
+
+    <img src="https://img.shields.io/github/followers/Piyushiitk24?label=Followers&style=flat-square&color=FF69B4" alt="Followers" />
+
+  </a>
+
+  <a href="https://github.com/Piyushiitk24?tab=repositories">
+
+    <img src="https://img.shields.io/github/stars/Piyushiitk24?label=Total%20Stars&style=flat-square&color=00FFFF" alt="Stars" />
+
+  </a>
+
+  <a href="https://github.com/sponsors/Piyushiitk24">
+
+    <img src="https://img.shields.io/badge/Sponsor-ff69b4?style=flat-square&logo=githubsponsors" alt="Sponsor" />
+
+  </a>
+
+</p>
+
+---
+
+<!-- Social Links: Larger icons with vaporwave spacing, added subtle hover effect via links -->
+
+<p align="center">
+
   <a href="https://twitter.com/piyushiitk24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="38" />
+
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
+
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://www.youtube.com/@piyushiitk24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="38" />
+
+    <img src="https://skillicons.dev/icons?i=youtube" height="50" alt="YouTube" />
+
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="mailto:piyushiitk24@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
+
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/piyushiitk24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+
   </a>
-</p>
 
-<p align="center">
-  <a href="https://ko-fi.com/piyusht"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30"/></a>
-  <a href="https://github.com/sponsors/Piyushiitk24"><img src="https://img.shields.io/badge/GitHub%20Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="30"/></a>
-</p>
+  &nbsp;&nbsp;
 
----
+  <a href="https://coff.ee/piyushiitk24" target="_blank">
 
-<!-- Animated, Retro Languages and Tools -->
-<h2 align="center"><img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="32"/> STACK & TOOLS</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,matlab,cpp,linux,git,github,figma" height="50"/>
-</p>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" alt="Buy Me a Coffee" />
 
----
+  </a>
 
-<!-- Glitch-styled Stats -->
-<h2 align="center">🎛️ <span style="color:#0ff0fc;">Stats Dashboard</span> 🎛️</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyushiitk24&show_icons=true&theme=radical&hide_border=true&icon_color=fd5fff&bg_color=0d1117&title_color=8100ff" width="430"/>
-  <img src="https://streak-stats.demolab.com/?user=Piyushiitk24&theme=highcontrast&hide_border=true" width="405"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushiitk24&theme=dracula&hide_border=true&area=true" width="90%"/>
-</p>
+  &nbsp;&nbsp;
 
----
+  <a href="https://ko-fi.com/piyusht" target="_blank">
 
-<!-- Pixel Art Snake (Retro Touch) -->
-<h2 align="center">🐍 <span style="color:#fd5fff;">Contribution Snake</span> 🐍</h2>
-<p align="center">
-  <img src="https://github.com/Piyushiitk24/Piyushiitk24/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="88%"/>
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" alt="Ko-fi" />
+
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/sponsors/Piyushiitk24" target="_blank">
+
+    <img src="https://img.shields.io/badge/GitHub%20Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="GitHub Sponsor" />
+
+  </a>
+
 </p>
 
 ---
 
-<!-- Featured Projects Neon Section -->
-<h2 align="center"><img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="44"/> <span style="color:#0ff0fc;">FEATURED PROJECTS</span> 🎯</h2>
+<!-- Languages & Tools: Grouped icons with vaporwave colors, added border for retro frame -->
+
+<h2 align="center" style="color:#00FFFF">🚀 Retro Toolkit: Languages & Frameworks</h2>
+
+<p align="center" style="border: 2px dashed #FF69B4; padding: 10px;">
+
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react" height="60" />
+
+</p>
+
+---
+
+<!-- GitHub Stats: 'radical' theme for neon retro feel, aligned for balance -->
+
+<h2 align="center" style="color:#800080">📊 Vaporwave Stats Dashboard</h2>
+
 <p align="center">
+
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Piyushiitk24&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+
+  <img width="45%" src="https://streak-stats.demolab.com/?user=Piyushiitk24&theme=radical&hide_border=true" alt="Streak" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushiitk24&theme=dracula&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+
+</p>
+
+---
+
+<!-- Snake: Kept with dark/light, fits retro game aesthetic -->
+
+<h2 align="center" style="color:#FF69B4">🐍 Neon Snake Contributions</h2>
+
+<p align="center">
+
+  <picture>
+
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Piyushiitk24/Piyushiitk24/blob/output/github-contribution-grid-snake-dark.svg" />
+
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Piyushiitk24/Piyushiitk24/blob/output/github-contribution-grid-snake.svg" />
+
+    <img src="https://github.com/Piyushiitk24/Piyushiitk24/blob/output/github-contribution-grid-snake.svg" alt="Snake" width="90%" />
+
+  </picture>
+
+</p>
+
+---
+
+<!-- Sponsorship: Larger badges, vaporwave colors for allure -->
+
+<h2 align="center" style="color:#00FFFF">💖 Fuel the Retro-Future | Sponsor</h2>
+
+<p align="center">
+
+  <a href="https://github.com/sponsors/Piyushiitk24" target="_blank">
+
+    <img src="https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="GitHub Sponsor" />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://coff.ee/piyushiitk24" target="_blank">
+
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" alt="Buy Me a Coffee" />
+
+  </a>
+
+  &nbsp;
+
+  <a href="https://ko-fi.com/piyusht" target="_blank">
+
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" alt="Ko-fi" />
+
+  </a>
+
+</p>
+
+---
+
+<!-- Featured Projects: 'radical' theme pins for consistent retro look, rounded borders -->
+
+<h2 align="center" style="color:#800080">🏆 Highlight Reels: Featured Builds</h2>
+
+<p align="center">
+
   <a href="https://github.com/piyushiitk24/Gamification_Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=Gamification_Quiz&theme=radical&border_color=fd5fff&border_radius=10" height="120"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=Gamification_Quiz&theme=radical&border_color=FF69B4&border_radius=15" height="120" />
+
   </a>
+
   <a href="https://github.com/piyushiitk24/QuizOnline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=QuizOnline&theme=radical&border_color=fd5fff&border_radius=10" height="120"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=QuizOnline&theme=radical&border_color=FF69B4&border_radius=15" height="120" />
+
   </a>
+
   <a href="https://github.com/piyushiitk24/duolingo-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=duolingo-clone&theme=radical&border_color=fd5fff&border_radius=10" height="120"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=duolingo-clone&theme=radical&border_color=FF69B4&border_radius=15" height="120" />
+
   </a>
+
   <a href="https://github.com/piyushiitk24/LessonPlanApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=LessonPlanApp&theme=radical&border_color=fd5fff&border_radius=10" height="120"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushiitk24&repo=LessonPlanApp&theme=radical&border_color=FF69B4&border_radius=15" height="120" />
+
   </a>
-</p>
-<p align="center"><a href="https://github.com/piyushiitk24?tab=repositories"><b>🔎 Explore All Projects 🔍</b></a></p>
 
----
-
-<!-- Neon Portfolio Section -->
-<h2 align="center">📂 <span style="color:#fd5fff;">Neon Repo Portfolio</span></h2>
-<p align="center" style="font-size:15px;">
-  🌀 <b>Gamification_Quiz • QuizOnline • duolingo-clone • LessonPlanApp</b> <br>
-  🎮 <b>Regression_Analysis • EduLadder • UNO • Project_D3</b> <br>
-  📡 <b>Particle_Tracer • Concrete_Comprehensive_Strength_Piyush • CS6612 • EDA</b>
-</p>
-<p align="center" style="font-size:13px;">
-  <a href="https://github.com/piyushiitk24?tab=repositories">... and more! 🚀</a>
 </p>
 
----
-
-<!-- Goodbye Typing Animation with Neon Glitch -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=24&duration=2500&pause=800&color=fd5fff&vCenter=true&center=true&width=740&lines=Thanks+for+dropping+by!;May+your+terminal+always+glow+neon.;Let%E2%80%99s+connect,+collab+and+build+epic+stuff!"/>
+
+  <a href="https://github.com/piyushiitk24?tab=repositories"><b style="color:#00FFFF">🔍 Dive Deeper: All Projects</b></a>
+
+</p>
+
+---
+
+<!-- Repository Portfolio: Condensed to a table for professional, scannable retro list -->
+
+<h2 align="center" style="color:#FF69B4">📂 Archive Vault: My Repos</h2>
+
+<p align="center">
+
+  <table align="center">
+
+    <tr>
+
+      <td><a href="https://github.com/piyushiitk24/Gamification_Quiz">Gamification_Quiz</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/QuizOnline">QuizOnline</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/duolingo-clone">duolingo-clone</a></td>
+
+    </tr>
+
+    <tr>
+
+      <td><a href="https://github.com/piyushiitk24/LessonPlanApp">LessonPlanApp</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/Regression_Analysis">Regression_Analysis</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/EduLadder">EduLadder</a></td>
+
+    </tr>
+
+    <tr>
+
+      <td><a href="https://github.com/piyushiitk24/UNO">UNO</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/CS661_Course_Project">CS661_Course_Project</a></td>
+
+      <td><a href="https://github.com/piyushiitk24/Project_D3">Project_D3</a></td>
+
+    </tr>
+
+    <!-- Trimmed for brevity; add more rows as needed -->
+
+  </table>
+
+</p>
+
+---
+
+<!-- Footer: Wavy closer in vaporwave style, no cliche typing -->
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,22,24&height=100&section=footer&text=Connect%20&%20Create&fontSize=30&animation=scaleIn" alt="Footer Banner" />
+
 </p>
