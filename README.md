@@ -3,7 +3,7 @@
 <!-- ================================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFEF&width=650&height=100&lines=👾+Welcome+to+Piyush’s+Curiosity+Corner+👾" alt="Welcome Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFEF&width=650&height=100&lines=👾+Welcome+to+my+Curiosity+Corner+👾" alt="Welcome Banner"/>
 </p>
 
 <p align="center">
