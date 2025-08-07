@@ -1,0 +1,19 @@
+<svg fill="#00ff41" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+                .container {
+                    font-family: 'JetBrains Mono', monospace;
+                    font-size: 20px;
+                    line-height: 50px;
+                    text-align: center;
+                    color: #00ff41;
+                }
+            </style>
+            <div class="container">
+                // END OF TRANSMISSION
+            </div>
+        </div>
+    </foreignObject>
+</svg>
