@@ -6,26 +6,41 @@
 
 <!-- ================================================================== -->
 
-<!--                      SYSTEM STATUS & BOOT LOG                      -->
+<!-- SYSTEM STATUS & BOOT LOG -->
 
 <!-- ================================================================== -->
 
 <details>
-<summary><b>System Status & Boot Log</b></summary>
 
+<summary>System Status & Boot Log</summary>
+
+```
 
 [piyush@polymath-station ~]$ ./initialize.sh
+
 [INIT] Booting PIYUSH.OS v10.0 (Curiosity Kernel)
+
 [INIT] Mounting core modules...
+
 [OK] Engineering & Control Systems (Priority: High)
+
 [OK] AI/ML Cognitive Matrix (Status: Learning)
+
 [OK] Executive & Management Protocols (Threads: Active)
+
 [OK] Creative Writing & Fiction Engine (State: Idle)
+
 [OK] Pedagogy & Knowledge Transfer (Mode: Enabled)
+
 [INIT] All systems nominal. Awaiting input...
+
 [piyush@polymath-station ~]$ cat /proc/status
+
 A problem-solver navigating the intersections of technology, leadership, and creativity. Driven by a relentless curiosity to dismantle complex challenges—from architecting intelligent systems to crafting compelling narratives. This space is a live log of my experiments, explorations, and engineered solutions.
-text
+
+```
+
+</details>
 
 <p align="center">
   <!-- DYNAMIC STATUS BADGE -->
@@ -104,6 +119,17 @@ text
 </p>
 
 <br>
+<p align="center">
+  <a href="https://github.com/sponsors/Piyushiitk24">
+    <img src="https://img.shields.io/badge/Sponsor%20me-ff424d?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/piyushiitk24">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/piyushiitk24">
+    <img src="https://img.shields.io/badge/Ko--fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/refs/heads/main/assets/footer.svg" alt="End of Transmission"/>
