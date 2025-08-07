@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/main/assets/header.svg" alt="Piyush's System Interface" />
+  <img src="[https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/main/assets/header.svg](https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/refs/heads/main/assets/header.svg)" alt="Piyush's System Interface" />
 </div>
 
 <br>
@@ -106,5 +106,5 @@ text
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/main/assets/footer.svg" alt="End of Transmission"/>
+  <img src="[https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/main/assets/footer.svg](https://raw.githubusercontent.com/Piyushiitk24/Piyushiitk24/refs/heads/main/assets/footer.svg)" alt="End of Transmission"/>
 </div>
