@@ -5,8 +5,11 @@
 <br>
 
 <!-- ================================================================== -->
-<!-- SYSTEM STATUS & BOOT LOG -->
+
+<!--                      SYSTEM STATUS & BOOT LOG                      -->
+
 <!-- ================================================================== -->
+
 <div align="center">
 <table width="90%">
 <tr>
@@ -16,11 +19,11 @@
 
 <span style="color: #ffcc02;">[INIT]</span> Booting PIYUSH.OS v10.0 (Curiosity Kernel)
 <span style="color: #ffcc02;">[INIT]</span> Mounting core modules...
-<span style="color: #00ff41;">[OK]</span> Engineering & Control Systems (Priority: High)
-<span style="color: #00ff41;">[OK]</span> AI/ML Cognitive Matrix (Status: Learning)
-<span style="color: #00ff41;">[OK]</span> Executive & Management Protocols (Threads: Active)
-<span style="color: #00ff41;">[OK]</span> Creative Writing & Fiction Engine (State: Idle)
-<span style="color: #00ff41;">[OK]</span> Pedagogy & Knowledge Transfer (Mode: Enabled)
+<span style="color: #00ff41;">[OK]</span>   Engineering & Control Systems         (Priority: High)
+<span style="color: #00ff41;">[OK]</span>   AI/ML Cognitive Matrix                (Status: Learning)
+<span style="color: #00ff41;">[OK]</span>   Executive & Management Protocols      (Threads: Active)
+<span style="color: #00ff41;">[OK]</span>   Creative Writing & Fiction Engine     (State: Idle)
+<span style="color: #00ff41;">[OK]</span>   Pedagogy & Knowledge Transfer         (Mode: Enabled)
 <span style="color: #ffcc02;">[INIT]</span> All systems nominal. Awaiting input...
 
 <span style="color: #ff6b35;">[piyush@polymath-station ~]$</span> <span style="color: #fefdf8;">cat /proc/status</span>
@@ -40,82 +43,63 @@
 <br>
 
 <!-- ================================================================== -->
-<!-- ANALYTICS & TRANSMISSION LOG -->
+
+<!--                     ANALYTICS & TRANSMISSION LOG                   -->
+
 <!-- ================================================================== -->
+
 <div align="center">
 <table width="90%">
 <tr valign="top">
 <td width="50%">
-
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ff41;">SYSTEM ANALYTICS</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Piyushiitk24&show_icons=true&theme=transparent&bg_color=2a2a2a&title_color=00ff41&text_color=fefdf8&icon_color=ff6b35&border_color=00ff41&hide_border=false&border_radius=10" alt="GitHub Stats" />
 </p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Piyushiitk24&theme=dark&background=2a2a2a&border=00ff41&stroke=00ff41&ring=ff6b35&fire=ff6b35&currStreakNum=fefdf8&sideNums=fefdf8&currStreakLabel=fefdf8&sideLabels=fefdf8&dates=fefdf8&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </p>
-
 </td>
-
 <td width="50%">
-
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ff41;">CORE PROTOCOLS</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,kubernetes,gcp,firebase,vscode&perline=5" alt="Core Protocols" />
 </p>
-
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ff41;">COMMUNICATION CHANNELS</h3>
 <p align="center">
 <a href="https://twitter.com/piyushiitk24"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=2a2a2a&labelColor=00ff41" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/piyushiitk24"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2a2a2a&labelColor=00ff41" alt="LinkedIn"/></a>
 <a href="mailto:piyushiitk24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=2a2a2a&labelColor=00ff41" alt="Email"/></a>
 </p>
-
 </td>
 </tr>
 </table>
 </div>
 
 <!-- ================================================================== -->
-<!-- FEATURED EXPERIMENTS -->
+
+<!--                       FEATURED EXPERIMENTS                         -->
+
 <!-- ================================================================== -->
+
 <h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00ff41;">FEATURED EXPERIMENTS</h2>
 <div align="center">
-
 <a href="https://github.com/Piyushiitk24/virtuallab-control-systems">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=virtuallab-control-systems&theme=dark&border_color=00ff41&border_radius=10&bg_color=2a2a2a&title_color=00ff41&icon_color=ff6b35&text_color=fefdf8" height="140"/>
 </a>
-
 <a href="https://github.com/Piyushiitk24/Quizock">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=Quizock&theme=dark&border_color=00ff41&border_radius=10&bg_color=2a2a2a&title_color=00ff41&icon_color=ff6b35&text_color=fefdf8" height="140"/>
 </a>
-
 <a href="https://github.com/Piyushiitk24/Offtoken">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=Offtoken&theme=dark&border_color=00ff41&border_radius=10&bg_color=2a2a2a&title_color=00ff41&icon_color=ff6b35&text_color=fefdf8" height="140"/>
 </a>
-
 <a href="https://github.com/Piyushiitk24/SANKALP">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=SANKALP&theme=dark&border_color=00ff41&border_radius=10&bg_color=2a2a2a&title_color=00ff41&icon_color=ff6b35&text_color=fefdf8" height="140"/>
 </a>
-
 <a href="https://github.com/Piyushiitk24/EduLadder">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyushiitk24&repo=EduLadder&theme=dark&border_color=00ff41&border_radius=10&bg_color=2a2a2a&title_color=00ff41&icon_color=ff6b35&text_color=fefdf8" height="140"/>
 </a>
-
 </div>
-
-<br>
-
-<!-- ================================================================== -->
-<!-- DYNAMIC CONTENT WORKFLOW -->
-<!-- ================================================================== -->
-<details>
-<summary align="center" style="font-family: 'Orbitron', sans-serif; color: #ffcc02;">View Workflow for Dynamic SYSTEM.LOG</summary>
-
-This repository uses a GitHub Action to update the `SYSTEM.LOG` badge every 6 hours using messages defined in a rotating list within `status.json`. You can find the action in `.github/workflows/update_status.yml`.
-
-</details>
 
 <br>
 
