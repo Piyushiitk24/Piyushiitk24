@@ -14,31 +14,31 @@
 
 <summary>System Status & Boot Log</summary>
 
-```
+<!-- ================================================================== -->
 
-[piyush@polymath-station ~]$ ./initialize.sh
+<!-- [piyush@polymath-station ~]$ ./initialize.sh -->
 
-[INIT] Booting PIYUSH.OS v10.0 (Curiosity Kernel)
+<!-- [INIT] Booting PIYUSH.OS v10.0 (Curiosity Kernel) -->
 
-[INIT] Mounting core modules...
+<!-- [INIT] Mounting core modules... -->
 
-[OK] Engineering & Control Systems (Priority: High)
+<!-- [OK] Engineering & Control Systems (Priority: High) -->
 
-[OK] AI/ML Cognitive Matrix (Status: Learning)
+<!-- [OK] AI/ML Cognitive Matrix (Status: Learning) -->
 
-[OK] Executive & Management Protocols (Threads: Active)
+<!-- [OK] Executive & Management Protocols (Threads: Active) -->
 
-[OK] Creative Writing & Fiction Engine (State: Idle)
+<!-- [OK] Creative Writing & Fiction Engine (State: Idle) -->
 
-[OK] Pedagogy & Knowledge Transfer (Mode: Enabled)
+<!-- [OK] Pedagogy & Knowledge Transfer (Mode: Enabled) -->
 
-[INIT] All systems nominal. Awaiting input...
+<!-- [INIT] All systems nominal. Awaiting input... -->
 
-[piyush@polymath-station ~]$ cat /proc/status
+<!-- [piyush@polymath-station ~]$ cat /proc/status -->
 
-A problem-solver navigating the intersections of technology, leadership, and creativity. Driven by a relentless curiosity to dismantle complex challenges—from architecting intelligent systems to crafting compelling narratives. This space is a live log of my experiments, explorations, and engineered solutions.
+<!-- A problem-solver navigating the intersections of technology, leadership, and creativity. Driven by a relentless curiosity to dismantle complex challenges—from architecting intelligent systems to crafting compelling narratives. This space is a live log of my experiments, explorations, and engineered solutions. -->
 
-```
+<!-- ================================================================== -->
 
 </details>
 
